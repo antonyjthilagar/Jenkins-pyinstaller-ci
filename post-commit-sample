@@ -1,0 +1,2 @@
+#!/bin/sh
+curl http://antony:ANtony!24@0.0.0.0:8080/git/notifyCommit?url=/home/antony/workspace/python_scripts/test.git
